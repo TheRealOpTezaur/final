@@ -3,7 +3,7 @@ import serial
 import telegram
 
 # Configurațiile Telegram
-TOKEN = "7059496794:AAEBw5L60f6uM_dMtAGAt5eSgSZiCHQK30"  # Înlocuiește cu tokenul corect
+TOKEN = "7059496794:AAHXYSVg1n3ELLVABNtSD2ihMN5WVhOc6GM"  # Înlocuiește cu tokenul corect
 chat_id = '-4784110072'  # ID-ul chatului sau al canalului unde trimite mesajele
 bot = telegram.Bot(token=TOKEN)
 
